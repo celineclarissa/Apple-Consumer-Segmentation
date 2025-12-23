@@ -1,6 +1,6 @@
 # Apple Brand Appeal - Consumer Segmentation
 
-# Abstract 📱
+## Abstract 📱
 Apple Inc.’s marketing strategies are reported to impact university students’ consumption behavior. However, previous studies focused on overall students, not specifically on international students in China. This demographic has a more equal exposure to both cultures. Quantitative and qualitative approaches were used to study 52 international students at a Sino-foreign university, utilizing surveys, proceeded with data clustering and statistical analyses. Results show that within the demographic, there were two groups with different perceptions towards Apple products: skeptic and enthusiast, directly influencing purchase intentions. Findings align with previous research about university students’ and society’s view on Apple products.
 
 ## Introduction 🍎
