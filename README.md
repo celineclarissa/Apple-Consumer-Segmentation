@@ -15,11 +15,12 @@ China, with a population of 1.4 billion (World Bank, 2024), acts as a prominent 
 ## Methods Used 📊
 * Exploratory Data Analysis
 * Data Visualization
-* Machine Learning (K-Means CLutering)
+* Machine Learning (K-Means Clutering)
 
 ## Technologies 👩🏻‍💻
 * Python
 * Pandas
 * Seaborn
 * Matplotlib
+* Numpy
 * Scikit-Learn
